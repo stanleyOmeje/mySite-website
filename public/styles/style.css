@@ -1,0 +1,29 @@
+body {
+  background-color: #333;
+  max-width: 98%;
+  margin: 0 auto;
+  color: white;
+
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.cont {
+  flex-grow: 1;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+nav {
+  padding: 16px;
+  background-color: #333;
+  float: right;
+  word-spacing: 5px;
+}
+footer {
+  padding: 16px;
+  background-color: darkblue;
+}
