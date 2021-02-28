@@ -21,7 +21,7 @@ app.get("/", (req, res) => {
     title: "The weeping Lion",
     body: "When the Lion weep",
     details:
-      "In the day of old, a little before rennaissance, there live a lion in a cave of Guntor.",
+      "In the day of old, a little before rennaissance, there live a lion in a cave .",
   });
 });
 
